@@ -1,4 +1,4 @@
-# preparing-student-data-sql
+# preparing-student-data
 
 Data Camp Project to clean a dataset and find a subset of students that work at a larger company and that have at least 10 years of experience.
 
